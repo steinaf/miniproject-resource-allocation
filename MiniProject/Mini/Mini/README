@@ -1,0 +1,26 @@
+Resource Based Dynamic Allocation on Federated Clouds
+
+By 
+Alok Saw				B090924CS
+Shubhangam Agrawal		B090904CS
+Stein Astor Fernandez	B090006CS
+Sunil Kumar Suthar		B090930CS
+
+Department of Computer Science and Engineering, National Institute of Technology Calicut
+
+COMPILATION
+
+cd codes/
+chmod +x make.sh
+./make.sh 
+
+RUNNING
+
+cd codes/
+chmod +x run.sh
+./run.sh
+
+NOTES
+
+Java Runtime Enviroment 6 should be installed to run
+JavaCC should be installed for compilation
